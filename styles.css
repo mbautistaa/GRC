@@ -2,7 +2,7 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-image: url('./Imagenes/fondo2.jpg');
+    background-image: url('http://gruporeal.com.co/Imagenes/fondo2.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
